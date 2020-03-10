@@ -1,0 +1,36 @@
+
+			.grid {
+				grid-gap: 1em;
+				margin: 0 0 2em 0;
+
+
+			}
+			.grid div {
+				background-color:rgba(0,0,0,0.1);
+			}
+
+			.nice-image {
+				width: 100%;
+				height: auto;
+				display: block;
+			}
+
+			.book {
+				margin-top: 2em;
+			}
+
+			.book h2 {
+  				font-family: 'Oswald', sans-serif;
+  				font-weight: 900em,
+  				font-size:2em;
+  				margin-left:1em;
+  				
+			}
+
+			.book-nav {
+				text-align: center;
+			}
+
+			.credits {
+				margin-left: 1em;
+			}
