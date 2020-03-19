@@ -1,5 +1,6 @@
 .wrapper {
     max-width: 600px;
+}
 			.grid {
 				grid-gap: 1em;
 				margin: 0 0 2em 0;
@@ -7,7 +8,7 @@
 
 			}
 			.grid div {
-				background-color:rgba(0,0,0,0.1);
+				/*background-color:rgba(0,0,0,0.1);*/
 			}
 
 			.nice-image {
@@ -38,4 +39,9 @@
 
 			.book-nav a {
 				background-color: transparent;
+			}
+
+			.book .width-12-12 {
+				background-color: #000;
+				color: #d6d6d6;
 			}
