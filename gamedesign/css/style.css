@@ -33,17 +33,16 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 960px;
-	height: 600px;
-	padding: 2em;
-	margin: 0 2em;
+	height: 540px;
+
 }
 
-.left-button {
+.scene1-cablecar {
 	position: absolute;
-	padding:20px;
-	background-color: pink;
-	left: 30px;
-	top: 30px;
+	width:184px;
+	height:137px;
+	left: 100px;
+	top: 250px;
 
 }
 
@@ -54,5 +53,12 @@ body {
 	background-color: pink;
 	left: 30px;
 	top: 30px;
+
+}
+
+img {
+	width: 100%;
+	height: auto;
+	display: block;
 
 }
