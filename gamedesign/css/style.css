@@ -37,22 +37,50 @@ body {
 
 }
 
-.scene1-cablecar {
+.paris-cafe {
 	position: absolute;
 	width:184px;
 	height:137px;
-	left: 100px;
-	top: 250px;
+	left: 535px;
+	top: 325px;
 
 }
 
-.right-button {
+.paris-river {
+	position: absolute;
+	width:184px;
+	height:137px;
+	left: 735px;
+	top: 325px;
+
+}
+
+.paris-moulin {
+	position: absolute;
+	width:184px;
+	height:137px;
+	left: 632px;
+	top: 145px;
+
+}
+
+.back-button {
 	z-index: 3;
 	position: absolute;
-	padding:20px;
-	background-color: pink;
-	left: 30px;
-	top: 30px;
+	padding:10px;
+	background-color: white;
+	left: 10px;
+	top: 10px;
+
+}
+
+.continue-button {
+	z-index: 3;
+	position: absolute;
+	padding:10px;
+	background-color: white;
+	left: 780px;
+	top: 480px;
 
 }
 
