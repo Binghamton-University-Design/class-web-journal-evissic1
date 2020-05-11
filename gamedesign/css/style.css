@@ -68,7 +68,9 @@ body {
 	z-index: 3;
 	position: absolute;
 	padding:20px;
-	background-color: white;
+	background-color: transparent;
+	width:10px;
+	height:10px;
 	left: 10px;
 	top: 10px;
 
