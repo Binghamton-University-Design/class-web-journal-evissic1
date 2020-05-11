@@ -64,7 +64,7 @@ body {
 
 }
 
-.back-button {
+.home-button {
 	z-index: 3;
 	position: absolute;
 	padding:10px;
@@ -83,6 +83,13 @@ body {
 	top: 220px;
 
 }
+
+.start-button {
+	position: absolute;
+	width:236px;
+	height:315px;
+	left: 500px;
+	top: 145px;
 
 img {
 	width: 100%;
