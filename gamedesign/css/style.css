@@ -69,8 +69,8 @@ body {
 	position: absolute;
 	padding:20px;
 	background-color: transparent;
-	width:10px;
-	height:10px;
+	width:69px;
+	height:66px;
 	left: 10px;
 	top: 10px;
 
@@ -84,6 +84,14 @@ body {
 	left: 420px;
 	top: 220px;
 
+}
+.question-button {
+	z-index: 3;
+	position: absolute;
+	padding:50px;
+	background-color: transparent;
+	left: 820px;
+	top: 10px;
 }
 
 .start-button {
