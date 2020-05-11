@@ -67,7 +67,7 @@ body {
 .home-button {
 	z-index: 3;
 	position: absolute;
-	padding:10px;
+	padding:20px;
 	background-color: white;
 	left: 10px;
 	top: 10px;
@@ -88,8 +88,8 @@ body {
 	position: absolute;
 	width:100px;
 	height:133px;
-	left: 100px;
-	top: 195px;
+	left: 1000px;
+	top: 100px;
 }
 
 img {
