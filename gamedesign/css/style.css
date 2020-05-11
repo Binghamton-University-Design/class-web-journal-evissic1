@@ -86,10 +86,11 @@ body {
 
 .start-button {
 	position: absolute;
-	width:236px;
-	height:315px;
-	left: 500px;
-	top: 145px;
+	width:100px;
+	height:133px;
+	left: 100px;
+	top: 195px;
+}
 
 img {
 	width: 100%;
