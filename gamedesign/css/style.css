@@ -106,7 +106,7 @@ body {
 
 .column {
   float: left;
-  width: 33.33%;
+  width: 10%;
 }
 
 /* Clear floats after the columns */
@@ -115,6 +115,8 @@ body {
   display: table;
   clear: both;
 }
+
+
 
 img {
 	width: 100%;
