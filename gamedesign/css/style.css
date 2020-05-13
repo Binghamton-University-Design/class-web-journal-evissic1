@@ -96,6 +96,17 @@ body {
 	top: 2px;
 }
 
+#info{
+	z-index: 4;
+	position: absolute;
+	width:900px;
+	height:480px;
+	background-color: white;
+	top:20px;
+	left:20px;
+	padding:20px;
+}
+
 .start-button {
 	position: absolute;
 	width:200px;
@@ -104,16 +115,12 @@ body {
 	top: 245px;
 }
 
-.column {
-  float: left;
-  width: 10%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.closing-title {
+	position: absolute;
+	width:200px;
+	height:266px;
+	left: 620px;
+	top: 100px;
 }
 
 
