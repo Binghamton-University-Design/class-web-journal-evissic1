@@ -1,12 +1,12 @@
 body {
 	background-color: #000;
-	text-align: left;
+	text-align: center;
 	margin: 0;
-	color: green;
-	font-size: 16px;
-	font-weight:400;
-	line-height:1.6;
-	font-family: Helvetica, sans-serif;
+	color: white;
+	font-size: 12px;
+	font-weight:50px;
+	line-height:1.2;
+	font-family: Myriad, sans-serif;
 	height: 100%;
 	position: relative;
 
@@ -37,7 +37,40 @@ body {
 
 }
 
-.paris-cafe {
+#topbox {
+	z-index: 4;
+	position: absolute;
+	width:175px;
+	height:100px;
+	background-color: #252460;
+	left:425px;
+	top:160px;
+	padding:10px;
+}
+
+#leftbox {
+	z-index: 4;
+	position: absolute;
+	width:175px;
+	height:100px;
+	background-color: #252460;
+	left:335px;
+	top:340px;
+	padding:10px;
+}
+
+#rightbox {
+	z-index: 4;
+	position: absolute;
+	width:175px;
+	height:100px;
+	background-color: #252460;
+	left:525px;
+	top:340px;
+	padding:10px;
+}
+
+.option-left {
 	position: absolute;
 	width:184px;
 	height:137px;
@@ -46,7 +79,8 @@ body {
 
 }
 
-.paris-river {
+
+.option-right {
 	position: absolute;
 	width:184px;
 	height:137px;
@@ -55,7 +89,7 @@ body {
 
 }
 
-.paris-moulin {
+.option-top {
 	position: absolute;
 	width:184px;
 	height:137px;
@@ -99,12 +133,12 @@ body {
 #info{
 	z-index: 4;
 	position: absolute;
-	width:900px;
-	height:480px;
-	background-color: white;
-	top:20px;
-	left:20px;
-	padding:20px;
+	width:860px;
+	height:69px;
+	background-color: #252460;
+	top:32px;
+	right:40px;
+	padding:10px;
 }
 
 .start-button {
