@@ -33,7 +33,7 @@ $(document).ready(function($) {
                     {
                         "label":"My First Dataset",
                         "data":[culture*25,food*25,adventure*25],
-                        "backgroundColor":["rgb(212, 94, 127)","rgb(108, 171, 210)","rgb(255, 205, 172)"]
+                        "backgroundColor":["rgb(212, 94, 127)","rgb(255, 205, 172)","rgb(108, 171, 210)"]
                     }
                 ]
             },
