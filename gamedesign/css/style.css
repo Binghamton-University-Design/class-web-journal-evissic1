@@ -34,7 +34,16 @@ body {
 	background-repeat: no-repeat;
 	width: 960px;
 	height: 540px;
+}
 
+#chart {
+	z-index: 4;
+	position: absolute;
+	width:306px;
+	height:160px;
+	left:494px;
+	top:118px;
+	padding:10px;
 }
 
 #topbox {
