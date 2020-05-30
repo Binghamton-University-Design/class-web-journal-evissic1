@@ -81,29 +81,29 @@ body {
 
 .option-left {
 	position: absolute;
-	width:184px;
-	height:137px;
-	left: 535px;
-	top: 325px;
+	width:250px;
+	height:186px;
+	left: 505px;
+	top: 315px;
 
 }
 
 
 .option-right {
 	position: absolute;
-	width:184px;
-	height:137px;
-	left: 735px;
-	top: 325px;
+	width:250px;
+	height:186px;
+	left: 705px;
+	top: 315px;
 
 }
 
 .option-top {
 	position: absolute;
-	width:184px;
-	height:137px;
-	left: 632px;
-	top: 145px;
+	width:250px;
+	height:186px;
+	left: 605px;
+	top: 125px;
 
 }
 
