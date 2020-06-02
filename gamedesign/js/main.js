@@ -43,6 +43,15 @@ $(document).ready(function($) {
         });
     }
 
+    $("a.option-right").hover(
+        function () {
+            $("#rightbox").addClass("shown");
+       },
+       function () {
+           $("#rightbox").removeClass("shown");
+       }
+    );
+
     $('a.activity img').on('mouseover', function(){
         src = $(this).attr('src').replace('.png', '-hover.gif');
         $(this).attr('src', src);

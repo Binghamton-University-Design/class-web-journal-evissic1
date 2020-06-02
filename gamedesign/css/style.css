@@ -79,6 +79,19 @@ body {
 	padding:10px;
 }
 
+.shown {
+	display: block !important;
+}
+
+#topbox, #leftbox, #rightbox {
+	display: none;
+}
+
+#topbox p, #leftbox p, #rightbox p {
+	margin-top: 0;
+	text-align: left;
+}
+
 .option-left {
 	position: absolute;
 	width:250px;
