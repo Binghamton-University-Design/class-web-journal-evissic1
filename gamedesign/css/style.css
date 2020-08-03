@@ -161,6 +161,7 @@ body {
 	top:32px;
 	right:40px;
 	padding:10px;
+	display:none;
 }
 
 .start-button {
