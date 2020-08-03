@@ -52,6 +52,33 @@ $(document).ready(function($) {
        }
     );
 
+     $("a.option-top").hover(
+        function () {
+            $("#topbox").addClass("shown");
+       },
+       function () {
+           $("#topbox").removeClass("shown");
+       }
+    );
+
+      $("a.option-left").hover(
+        function () {
+            $("#leftbox").addClass("shown");
+       },
+       function () {
+           $("#leftbox").removeClass("shown");
+       }
+    );
+
+    $("a.question-button").hover(
+        function () {
+            $("#info").addClass("shown");
+       },
+       function () {
+           $("#info").removeClass("shown");
+       }
+    );
+
     $('a.activity img').on('mouseover', function(){
         src = $(this).attr('src').replace('.png', '-hover.gif');
         $(this).attr('src', src);
