@@ -60,23 +60,23 @@ body {
 #leftbox {
 	z-index: 4;
 	position: absolute;
-	width:175px;
-	height:100px;
+	width:180px;
+	height:120px;
 	background-color: #252460;
 	left:335px;
 	top:340px;
-	padding:10px;
+	padding:5px;
 }
 
 #rightbox {
 	z-index: 4;
 	position: absolute;
-	width:175px;
-	height:100px;
+	width:180px;
+	height:120px;
 	background-color: #252460;
 	left:525px;
 	top:340px;
-	padding:10px;
+	padding:5px;
 }
 
 .shown {
